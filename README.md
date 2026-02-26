@@ -1,6 +1,9 @@
-📘 README
-📊 Análisis Predictivo de Cancelación de Clientes (Churn Prediction)
-📌 Descripción del Proyecto
+**README**
+
+**Análisis Predictivo de Cancelación de Clientes (Churn Prediction)**
+
+**Descripción del Proyecto**
+
 
 Este proyecto tiene como objetivo desarrollar modelos de Machine Learning capaces de predecir la cancelación de clientes (churn) a partir de variables contractuales, económicas y de servicios contratados.
 
